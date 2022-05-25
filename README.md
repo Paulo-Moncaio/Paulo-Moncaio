@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Paulo-Moncaio/Paulo-Moncaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](./github-profile-header.png)
+![Header](./github-header-image.png)
